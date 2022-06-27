@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/guide_selector.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/guide_white.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/shape_login_btn.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/shape_login_form.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/shape_register_btn.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/y0.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/y1.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/y2.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/drawable/y3.xml" value="0.2265" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/activity_guide.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/fragment_news.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/fragment_post.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/fragment_service.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/fragment_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/guide_white.xml" value="0.22826086956521738" />
+        <entry key="..\:/Androidstudio/Myapp/app/src/main/res/layout/main_tab_item.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
